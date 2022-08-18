@@ -1,0 +1,19 @@
+{
+  "name": "freecodecampbackendchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohanes44/freeCodeCampBackendChallenge.git"
+  },
+  "author": "yohanes debebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohanes44/freeCodeCampBackendChallenge/issues"
+  },
+  "homepage": "https://github.com/yohanes44/freeCodeCampBackendChallenge#readme"
+}
